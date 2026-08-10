@@ -1,21 +1,45 @@
-<h1 align="center">Hi 👋, I'm Krishna Choudhary</h1>
-<h3 align="center">just a learner</h3>
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Krishna+Choudhary!👋;BCA+Student+in+AI+%26+Data+Science;Python+%26+Machine+Learning+Enthusiast" alt="Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-choudhary2607&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-choudhary2607" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-choudhary2607" alt="krishna-choudhary2607" /></a> </p>
+### 👨‍💻 About Me
+🎓 Starting my BCA degree specializing in **AI & Data Science**  
+💻 Passionate about Python, Machine Learning, and Data Analysis  
+🔍 Currently learning **Python, SQL, and Data Science Fundamentals**  
+📈 I enjoy solving real-world problems using code and data  
 
-- 📫 How to reach me **krishna26072006@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack & Skills
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-choudhary2607&show_icons=true&locale=en&layout=compact" alt="krishna-choudhary2607" /></p>
+### ⏱️ Weekly Coding Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-choudhary2607&show_icons=true&locale=en" alt="krishna-choudhary2607" /></p>
+```text
+From: 11 May 2024 - To: 09 August 2026
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-choudhary2607&" alt="krishna-choudhary2607" /></p>
+Total Time: 235 hrs 27 mins
+
+HTML              53 hrs 38 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Python            46 hrs 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+JavaScript        22 hrs 56 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Other             16 hrs 21 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JSON              14 hrs 7 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Kotlin            12 hrs 24 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+C                 8 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+CSS               7 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Markdown          7 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
