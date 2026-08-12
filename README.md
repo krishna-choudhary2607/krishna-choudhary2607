@@ -65,10 +65,10 @@ I'm a **BCA student specializing in Artificial Intelligence & Data Science** who
 <div align="center">
 
 <a href="https://github.com/krishna-choudhary2607/First-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-choudhary2607&repo=First-Website&theme=tokyonight&hide_border=true" alt="First Website" />
+  <img src="./profile/pin-first-website.svg" alt="First Website" />
 </a>
 <a href="https://github.com/krishna-choudhary2607/cafe-havana-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-choudhary2607&repo=cafe-havana-site&theme=tokyonight&hide_border=true" alt="Cafe Havana Site" />
+  <img src="./profile/pin-cafe-havana-site.svg" alt="Cafe Havana Site" />
 </a>
 
 </div>
@@ -77,7 +77,7 @@ I'm a **BCA student specializing in Artificial Intelligence & Data Science** who
 My first web development project, focused on learning the fundamentals of building and structuring a website.
 
 ### ☕ Cafe Havana Site
-A modern website project built with **React + Vite**, exploring component-based frontend development and modern web tooling. citeturn13file0
+A modern website project built with **React + Vite**, exploring component-based frontend development and modern web tooling. fileciteturn13file0
 
 ---
 
@@ -159,9 +159,9 @@ AI / Machine Learning ─████████████░░░░░░�
 Data Science ──────────███████████░░░░░░░── Learning
 Networking ────────────█████████░░░░░░░░░── Learning
 Linux ─────────────────████████░░░░░░░░░░── Learning
-Cybersecurity ──────────███████░░░░░░░░░░░── Exploring
+Cybersecurity ─────────███████░░░░░░░░░░░── Exploring
 Backend Development ───███████░░░░░░░░░░░── Building
-Flutter / Dart ─────────██████░░░░░░░░░░░░── Exploring
+Flutter / Dart ────────██████░░░░░░░░░░░░── Exploring
 ```
 
 ---
