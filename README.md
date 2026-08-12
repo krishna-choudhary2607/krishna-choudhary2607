@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Krishna Choudhary
-
-### `BCA • AI & Data Science • Python • AI/ML • Cybersecurity`
+<img src="./profile/name-banner.svg" alt="Krishna Choudhary" width="100%" />
 
 <a href="https://github.com/krishna-choudhary2607">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=70A5FD&center=true&vCenter=true&width=780&lines=Python+Developer+%7C+AI%2FML+Enthusiast;Building+projects+and+learning+every+day;Exploring+AI+%2B+Data+Science+%2B+Cybersecurity;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -63,14 +61,8 @@ I'm **Krishna Choudhary**, a BCA student specializing in **Artificial Intelligen
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/krishna-choudhary2607/First-Website">
-  <img src="./profile/pin-first-website.svg" alt="First Website" />
-</a>
-<a href="https://github.com/krishna-choudhary2607/cafe-havana-site">
-  <img src="./profile/pin-cafe-havana-site.svg" alt="Cafe Havana Site" />
-</a>
-
+<a href="https://github.com/krishna-choudhary2607/First-Website"><img src="./profile/pin-first-website.svg" alt="First Website" /></a>
+<a href="https://github.com/krishna-choudhary2607/cafe-havana-site"><img src="./profile/pin-cafe-havana-site.svg" alt="Cafe Havana Site" /></a>
 </div>
 
 ### 🌐 First-Website
@@ -83,30 +75,19 @@ A modern website project built with **React + Vite**, exploring component-based 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-
-</div>
-
----
+<div align="center"><img src="./profile/stats.svg" height="180" alt="GitHub Stats" /> <img src="./profile/top-langs.svg" height="180" alt="Top Languages" /></div>
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<div align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></div>
 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=krishna-choudhary2607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+<p><i>Achievements shown here are based on GitHub activity and milestones.</i></p>
 
 </div>
 
@@ -114,24 +95,16 @@ A modern website project built with **React + Vite**, exploring component-based 
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" /></div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-snake.svg" />
   <img src="./profile/github-contribution-snake.svg" alt="GitHub contribution snake" />
 </picture>
-
 </div>
 
 ---
@@ -148,8 +121,6 @@ A modern website project built with **React + Vite**, exploring component-based 
 | 🌐 Networking | 🟡 Learning |
 | 🐧 Linux | 🟡 Learning |
 | 📱 Flutter / Dart | 🟡 Exploring |
-
----
 
 ## 🧠 2026 Learning Roadmap
 
@@ -169,14 +140,8 @@ Flutter / Dart ────────██████░░░░░░░�
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/krishna-choudhary2607">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
+<a href="https://github.com/krishna-choudhary2607"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
