@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
+      - ".github/scripts/generate_streak.py"
   workflow_dispatch:
 
 jobs:
@@ -15,19 +16,18 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_streak.py
 
-      - name: Commit streak stats
+      - name: Commit streak SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git commit -m "Update GitHub streak stats" || exit 0
           git push
