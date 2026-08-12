@@ -89,7 +89,6 @@ A civic issue reporting and resolution platform designed to help users report lo
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -104,15 +103,15 @@ A civic issue reporting and resolution platform designed to help users report lo
 </p>
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=krishna-choudhary2607&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="./profile/streak.svg"
+    alt="Krishna Choudhary GitHub Streak"
   />
 </p>
-
 
 ---
 
@@ -137,3 +136,45 @@ Cybersecurity       ████████░░░░░░░░░░░░
 Networking          ████████░░░░░░░░░░░░  Learning
 Backend Development ███████░░░░░░░░░░░░░  Building
 Flutter / Dart      ██████░░░░░░░░░░░░░░  Exploring
+```
+
+---
+
+## 🧠 What I'm Learning
+
+- 🐍 Advanced Python
+- 🤖 Machine Learning
+- 📊 Data Analysis & Visualization
+- 🧠 Artificial Intelligence
+- 🌐 Computer Networking
+- 🐧 Linux
+- 🔐 Cybersecurity & Ethical Hacking
+- 🗃️ Backend Development
+- 📱 Flutter & Dart
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/krishna-choudhary2607">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+> "Don't just learn the technology. Build something with it."
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
