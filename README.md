@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:70A5FD&height=190&section=header&text=KRISHNA%20CHOUDHARY&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20Python%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=16" alt="Krishna Choudhary" />
+# 👋 Krishna Choudhary
 
-### `@krishna-choudhary2607`
+### `BCA • AI & Data Science • Python • AI/ML • Cybersecurity`
 
 <a href="https://github.com/krishna-choudhary2607">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=70A5FD&center=true&vCenter=true&width=780&lines=Python+Developer+%7C+AI%2FML+Enthusiast;Building+projects+and+learning+every+day;Exploring+AI+%2B+Data+Science+%2B+Cybersecurity;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -106,7 +106,7 @@ A modern website project built with **React + Vite**, exploring component-based 
 
 <div align="center">
 
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=krishna-choudhary2607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
