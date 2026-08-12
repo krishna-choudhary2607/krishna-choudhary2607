@@ -1,180 +1,194 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Krishna Choudhary</h1>
+# 👋 Hi, I'm Krishna Choudhary
 
-<h3 align="center">
-  BCA (AI & Data Science) Student | Python Developer | AI/ML Enthusiast
-</h3>
+### BCA • AI & Data Science • Python • AI/ML • Cybersecurity
 
-<p align="center">
-  <a href="https://github.com/krishna-choudhary2607">
-    <img src="https://komarev.com/ghpvc/?username=krishna-choudhary2607&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/krishna-choudhary2607?tab=followers">
-    <img src="https://img.shields.io/github/followers/krishna-choudhary2607?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+<a href="https://github.com/krishna-choudhary2607">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Python+Developer+%7C+AI%2FML+Enthusiast;Building+projects+and+learning+every+day;Exploring+AI+%2B+Data+Science+%2B+Cybersecurity;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://github.com/krishna-choudhary2607"><img src="https://komarev.com/ghpvc/?username=krishna-choudhary2607&label=Profile%20Views&color=70A5FD&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/krishna-choudhary2607?tab=followers"><img src="https://img.shields.io/github/followers/krishna-choudhary2607?label=Followers&style=for-the-badge&color=1f6feb" alt="Followers" /></a>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a **BCA student specializing in Artificial Intelligence & Data Science**.
+I'm a **BCA student specializing in Artificial Intelligence & Data Science** who enjoys learning by building.
 
-💻 I enjoy building projects that combine **Python, AI, automation and backend development**.
+- 🐍 My main language is **Python**
+- 🤖 Interested in **AI, Machine Learning & Data Science**
+- 🔐 Exploring **Cybersecurity, Ethical Hacking & Networking**
+- 🌐 Building **web and backend projects**
+- 📱 Exploring **Flutter & Dart**
+- 🧠 Currently strengthening my fundamentals in **Python, Linux, Git, Networking and AI/ML**
+- 🚀 Long-term goal: combine **AI + Data Science + Cybersecurity** to build useful real-world products
 
-🤖 Currently exploring:
-- Artificial Intelligence & Machine Learning
-- Data Science
-- Python Development
-- Computer Networking
-- Cybersecurity & Ethical Hacking
-- Backend Development
-- Flutter & Dart
-
-🌱 Currently improving my skills in **Python, AI/ML, Git & GitHub, Linux and Networking**.
-
-🚀 My goal is to become a developer who can combine **AI + Data Science + Cybersecurity** to build useful real-world applications.
-
-💡 I believe in learning by **building projects**, experimenting and solving problems.
+> 💡 **Learn → Build → Break → Fix → Repeat.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,html,css,js" />
-</p>
+### Languages & Development
 
-### 🤖 AI / Data Science
+<img src="https://skillicons.dev/icons?i=python,dart,html,css,js" alt="Languages" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+### AI / Data Science
 
-**Libraries & Tools**
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI tools" />
 
-- 🐼 Pandas
-- 📊 Matplotlib
-- 👁️ OpenCV
-- 🤖 TensorFlow
-- 🔢 NumPy
-- 🧪 Scikit-learn
+<br/>
 
-### ⚙️ Tools & Platforms
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" />
-</p>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" alt="Tools" />
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧾 Restaurant Bill Management System
+<div align="center">
 
-A Python-based application designed to manage restaurant bills and customer transactions.
+<a href="https://github.com/krishna-choudhary2607/First-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-choudhary2607&repo=First-Website&theme=tokyonight&hide_border=true" alt="First Website" />
+</a>
+<a href="https://github.com/krishna-choudhary2607/cafe-havana-site">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-choudhary2607&repo=cafe-havana-site&theme=tokyonight&hide_border=true" alt="Cafe Havana Site" />
+</a>
 
-**Tech:** Python • Pandas • CSV • Matplotlib
+</div>
+
+### 🌐 First-Website
+My first web development project, focused on learning the fundamentals of building and structuring a website.
+
+### ☕ Cafe Havana Site
+A modern website project built with **React + Vite**, exploring component-based frontend development and modern web tooling. citeturn13file0
 
 ---
 
-### 🏙️ LocalLoop
+## 📊 GitHub Analytics
 
-A civic issue reporting and resolution platform designed to help users report local problems and track their resolution.
+<div align="center">
 
-**Focus:** Web Development • Backend • Civic Technology
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=krishna-choudhary2607&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=krishna-choudhary2607&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="Krishna Choudhary GitHub Streak"
-  />
-</p>
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&theme=tokyo-night&hide_border=true"
-    alt="Krishna's Contribution Graph"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishna-choudhary2607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-snake.svg" />
+  <img src="./profile/github-contribution-snake.svg" alt="GitHub contribution snake" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Status |
+|---|---|
+| 🐍 Python | 🟢 Building |
+| 🤖 AI / ML | 🟡 Learning |
+| 📊 Data Science | 🟡 Learning |
+| 🌐 Web Development | 🟢 Building |
+| 🔐 Cybersecurity | 🟡 Exploring |
+| 🌐 Networking | 🟡 Learning |
+| 🐧 Linux | 🟡 Learning |
+| 📱 Flutter / Dart | 🟡 Exploring |
+
+---
+
+## 🧠 2026 Learning Roadmap
 
 ```text
-Python              ███████████████░░░░░  Learning
-AI / ML             ████████████░░░░░░░░  Learning
-Data Science        ██████████░░░░░░░░░░  Learning
-Cybersecurity       ████████░░░░░░░░░░░░  Exploring
-Networking          ████████░░░░░░░░░░░░  Learning
-Backend Development ███████░░░░░░░░░░░░░  Building
-Flutter / Dart      ██████░░░░░░░░░░░░░░  Exploring
+Python ────────────────████████████████░░── Advanced
+AI / Machine Learning ─████████████░░░░░░── Learning
+Data Science ──────────███████████░░░░░░░── Learning
+Networking ────────────█████████░░░░░░░░░── Learning
+Linux ─────────────────████████░░░░░░░░░░── Learning
+Cybersecurity ──────────███████░░░░░░░░░░░── Exploring
+Backend Development ───███████░░░░░░░░░░░── Building
+Flutter / Dart ─────────██████░░░░░░░░░░░░── Exploring
 ```
 
 ---
 
-## 🧠 What I'm Learning
+## 🤝 Connect With Me
 
-- 🐍 Advanced Python
-- 🤖 Machine Learning
-- 📊 Data Analysis & Visualization
-- 🧠 Artificial Intelligence
-- 🌐 Computer Networking
-- 🐧 Linux
-- 🔐 Cybersecurity & Ethical Hacking
-- 🗃️ Backend Development
-- 📱 Flutter & Dart
+<div align="center">
 
----
-
-## 🤝 Let's Connect
-
-<p align="left">
 <a href="https://github.com/krishna-choudhary2607">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
+
+</div>
 
 ---
 
-## 💭 Developer Mindset
+<div align="center">
 
-> "Don't just learn the technology. Build something with it."
+### 💭 Developer Mindset
 
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+**"Don't just learn the technology. Build something with it."**
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+⭐ If you like my work, consider starring a repository!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:70A5FD&height=120&section=footer" alt="Footer" />
+
+</div>
