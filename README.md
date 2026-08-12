@@ -1,45 +1,139 @@
-<!-- Animated Typing Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Krishna+Choudhary!👋;BCA+Student+in+AI+%26+Data+Science;Python+%26+Machine+Learning+Enthusiast" alt="Header" />
-</div>
+<!-- ======================= HEADER ======================= -->
 
-<br>
+<h1 align="center">Hi 👋, I'm Krishna Choudhary</h1>
 
-### 👨‍💻 About Me
-🎓 Starting my BCA degree specializing in **AI & Data Science**  
-💻 Passionate about Python, Machine Learning, and Data Analysis  
-🔍 Currently learning **Python, SQL, and Data Science Fundamentals**  
-📈 I enjoy solving real-world problems using code and data  
+<h3 align="center">
+  BCA (AI & Data Science) Student | Python Developer | AI/ML Enthusiast
+</h3>
 
----
-
-### 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/krishna-choudhary2607">
+    <img src="https://komarev.com/ghpvc/?username=krishna-choudhary2607&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/krishna-choudhary2607?tab=followers">
+    <img src="https://img.shields.io/github/followers/krishna-choudhary2607?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
-### ⏱️ Weekly Coding Activity
+## 👨‍💻 About Me
+
+🎓 I'm a **BCA student specializing in Artificial Intelligence & Data Science**.
+
+💻 I enjoy building projects that combine **Python, AI, automation and backend development**.
+
+🤖 Currently exploring:
+- Artificial Intelligence & Machine Learning
+- Data Science
+- Python Development
+- Computer Networking
+- Cybersecurity & Ethical Hacking
+- Backend Development
+- Flutter & Dart
+
+🌱 Currently improving my skills in **Python, AI/ML, Git & GitHub, Linux and Networking**.
+
+🚀 My goal is to become a developer who can combine **AI + Data Science + Cybersecurity** to build useful real-world applications.
+
+💡 I believe in learning by **building projects**, experimenting and solving problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,html,css,js" />
+</p>
+
+### 🤖 AI / Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+**Libraries & Tools**
+
+- 🐼 Pandas
+- 📊 Matplotlib
+- 👁️ OpenCV
+- 🤖 TensorFlow
+- 🔢 NumPy
+- 🧪 Scikit-learn
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🧾 Restaurant Bill Management System
+
+A Python-based application designed to manage restaurant bills and customer transactions.
+
+**Tech:** Python • Pandas • CSV • Matplotlib
+
+---
+
+### 🏙️ LocalLoop
+
+A civic issue reporting and resolution platform designed to help users report local problems and track their resolution.
+
+**Focus:** Web Development • Backend • Civic Technology
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=krishna-choudhary2607&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=krishna-choudhary2607&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=krishna-choudhary2607&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&theme=tokyo-night&hide_border=true"
+    alt="Krishna's Contribution Graph"
+  />
+</p>
+
+---
+
+## 🎯 Current Goals
 
 ```text
-From: 11 May 2024 - To: 09 August 2026
-
-Total Time: 235 hrs 27 mins
-
-HTML              53 hrs 38 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Python            46 hrs 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-XML               28 hrs 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-JavaScript        22 hrs 56 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Other             16 hrs 21 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-JSON              14 hrs 7 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Kotlin            12 hrs 24 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-C                 8 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-CSS               7 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Markdown          7 hrs 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Python              ███████████████░░░░░  Learning
+AI / ML             ████████████░░░░░░░░  Learning
+Data Science        ██████████░░░░░░░░░░  Learning
+Cybersecurity       ████████░░░░░░░░░░░░  Exploring
+Networking          ████████░░░░░░░░░░░░  Learning
+Backend Development ███████░░░░░░░░░░░░░  Building
+Flutter / Dart      ██████░░░░░░░░░░░░░░  Exploring
