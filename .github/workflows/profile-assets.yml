@@ -52,6 +52,13 @@ jobs:
           path: profile/pin-cafe-havana-site.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
