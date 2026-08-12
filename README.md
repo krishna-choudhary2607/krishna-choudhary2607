@@ -36,22 +36,17 @@ I'm **Krishna Choudhary**, a BCA student specializing in **Artificial Intelligen
 <div align="center">
 
 ### Languages & Development
-
 <img src="https://skillicons.dev/icons?i=python,dart,html,css,js" alt="Languages" />
 
 ### AI / Data Science
-
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI tools" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
 ### Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" alt="Tools" />
 
 </div>
@@ -74,31 +69,22 @@ A modern website project built with **React + Vite**, exploring component-based 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center"><img src="./profile/stats.svg" height="180" alt="GitHub Stats" /> <img src="./profile/top-langs.svg" height="180" alt="Top Languages" /></div>
 
 ## 🔥 GitHub Streak
-
 <div align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></div>
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
+<div align="center"><img src="./profile/achievements.svg" alt="GitHub achievements showcase" width="100%" /></div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-choudhary2607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-<p><i>Achievements shown here are based on GitHub activity and milestones.</i></p>
-
-</div>
+> **Note:** GitHub's official Achievements are separate from the README and are controlled by GitHub itself. citeturn0search0turn0search5
 
 ---
 
 ## 📈 Contribution Activity
-
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-choudhary2607&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" /></div>
 
 ## 🐍 Contribution Snake
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-snake-dark.svg" />
@@ -110,7 +96,6 @@ A modern website project built with **React + Vite**, exploring component-based 
 ---
 
 ## 🎯 Current Focus
-
 | Area | Status |
 |---|---|
 | 🐍 Python | 🟢 Building |
@@ -123,7 +108,6 @@ A modern website project built with **React + Vite**, exploring component-based 
 | 📱 Flutter / Dart | 🟡 Exploring |
 
 ## 🧠 2026 Learning Roadmap
-
 ```text
 Python ────────────────████████████████░░── Advanced
 AI / Machine Learning ─████████████░░░░░░── Learning
@@ -138,7 +122,6 @@ Flutter / Dart ────────██████░░░░░░░�
 ---
 
 ## 🤝 Connect With Me
-
 <div align="center">
 <a href="https://github.com/krishna-choudhary2607"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -147,13 +130,10 @@ Flutter / Dart ────────██████░░░░░░░�
 ---
 
 <div align="center">
-
 ### 💭 Developer Mindset
-
 **"Don't just learn the technology. Build something with it."**
 
 ⭐ If you like my work, consider starring a repository!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:70A5FD&height=120&section=footer" alt="Footer" />
-
 </div>
