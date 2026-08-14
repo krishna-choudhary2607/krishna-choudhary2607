@@ -8,7 +8,7 @@
   <rect x="605" y="105" width="250" height="80" rx="10" fill="#24283b"/>
 
   <text x="170" y="132" text-anchor="middle" fill="#a9b1d6" font-family="Arial, Helvetica, sans-serif" font-size="13">Current Streak</text>
-  <text x="170" y="164" text-anchor="middle" fill="#70a5fd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">1 days</text>
+  <text x="170" y="164" text-anchor="middle" fill="#70a5fd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">0 days</text>
 
   <text x="450" y="132" text-anchor="middle" fill="#a9b1d6" font-family="Arial, Helvetica, sans-serif" font-size="13">Longest Streak</text>
   <text x="450" y="164" text-anchor="middle" fill="#70a5fd" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">3 days</text>
